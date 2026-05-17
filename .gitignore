@@ -1,0 +1,21 @@
+# Dataset
+cats_dogs_light/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+venv/
+.env
+
+# Model files
+*.h5
+*.pth
+*.pt
